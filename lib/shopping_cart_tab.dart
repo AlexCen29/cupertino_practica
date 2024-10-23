@@ -304,6 +304,18 @@ class ShoppingCartItem extends StatelessWidget {
                 ),
               ),
             ),
+            Center(
+              child: CupertinoButton(
+              onPressed: () {
+                final model = Provider.of<AppStateModel>(context, listen: false);
+                model.removeItemFromCart(product.id);
+              },
+              child: const Icon(
+                CupertinoIcons.minus_circled,
+                semanticLabel: 'Remove',
+              ),
+                        ),
+            ),
           ],
         ),
       ),
