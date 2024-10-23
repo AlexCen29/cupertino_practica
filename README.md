@@ -1,6 +1,7 @@
 # cupertino_practica
 
 Alumnos 
+
 Alex Iván Jiménez Cen
 
 David José Caballero Farias
