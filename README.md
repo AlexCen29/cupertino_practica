@@ -1,10 +1,10 @@
 # cupertino_practica
 
-A new Flutter project.
-
 Alumnos 
-Alex Iván Jiménez Cen 
-David José Caballero Farias 
+Alex Iván Jiménez Cen
+
+David José Caballero Farias
+
 Angel Yahir Poor Ucan
 
 Carrera IDGS 7-C
