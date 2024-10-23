@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+Alumnos 
+Alex Iván Jiménez Cen 
+David José Caballero Farias 
+Angel Yahir Poor Ucan
+
+Carrera IDGS 7-C
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
